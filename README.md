@@ -126,7 +126,7 @@ Ely da Silva Miranda
 > *Primeira etapa do cadastro, com campos para dados básicos do usuário, data de nascimento, gênero e endereço (opcional), com navegação para as próximas etapas.*
 
 ## Tela Principal - Dashboard
-![Tela Principal](docs/prototipos/dashboard.JPG)
+![Tela Principal](https://github.com/Wendellhub-G/avalia-o01/blob/29e16ae61854d7eeeb56a01e5680e1ef2d7172f0/docs/prototipos%20/dashboard.JPG)
 > *Área principal do sistema, com saudação personalizada, exibição de tarefas prioritárias, opção para visualizar tarefas secundárias e botão para adicionar novas atividades.*
 
 ## Tela de Perfil
