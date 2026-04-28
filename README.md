@@ -94,7 +94,7 @@ Ely da Silva Miranda
 # 7. Modelagem do Sistema
 
 ## Diagrama de Casos de Uso
-![Casos de Uso](docs/modelagem/casos-de-uso.png)
+![Casos de Uso](docs/modelagem/casos-de-uso.PNG)
 > *Mostra as interações do usuário com o sistema.*
 
 ## Fluxo de Telas
