@@ -122,7 +122,7 @@ Ely da Silva Miranda
 > *Tela de acesso ao sistema, com campos para e-mail ou telefone e senha, além de link para cadastro de novos usuários.*
 
 ## Tela de Cadastro
-![Tela de Cadastro](docs/prototipos/cadastro.JPG)
+![Tela de Cadastro](https://github.com/Wendellhub-G/avalia-o01/blob/0f72555869f777da9387e6faf90cda7d19519d5f/docs/prototipos%20/cadastro.JPG)
 > *Primeira etapa do cadastro, com campos para dados básicos do usuário, data de nascimento, gênero e endereço (opcional), com navegação para as próximas etapas.*
 
 ## Tela Principal - Dashboard
