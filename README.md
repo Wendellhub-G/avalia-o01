@@ -1,12 +1,5 @@
 # avaliação - 01
 
-PRONTO! 🚀
-
-Fiz TUDO para você. Agora o arquivo está 100% completo, com todas as imagens dentro do próprio texto, então você NÃO PRECISA criar nenhuma pasta e nem baixar nenhuma imagem.
-
-É só copiar tudo aqui de baixo e colar direto no seu arquivo README.md no GitHub.
-
-Vai ficar lindo, organizado e com todas as imagens aparecendo! 😎👍
 # DailyFlow
 
 > Estruturar o fluxo de foco e organização diária do usuário, reduzindo a carga cognitiva através da exibição seletiva de tarefas e rotinas de fechamento inteligentes.
@@ -20,7 +13,7 @@ Vai ficar lindo, organizado e com todas as imagens aparecendo! 😎👍
 - Karla Cristine
 - Matheus Leal
 - Luiz Felipe
-- Ana Clara
+- Ana Clara (temporario(
 
 ## Disciplina
 Projeto Integrador
@@ -101,19 +94,24 @@ Ely da Silva Miranda
 # 7. Modelagem do Sistema
 
 ## Diagrama de Casos de Uso
-<img src="https://svgshare.com/i/17XH.svg" width="700"/>
+![Casos de Uso](docs/modelagem/casos-de-uso.png)
+> *Mostra as interações do usuário com o sistema.*
 
 ## Fluxo de Telas
-<img src="https://svgshare.com/i/17XJ.svg" width="700"/>
+![Fluxo de Telas](docs/modelagem/fluxo-de-telas.png)
+> *Representa a navegação entre as telas do sistema.*
 
 ## Arquitetura
-<img src="https://svgshare.com/i/17XL.svg" width="700"/>
+![Arquitetura](docs/modelagem/arquitetura.png)
+> *Divisão em camadas: Interface, Regras e Banco de Dados.*
 
 ## Modelo Entidade-Relacionamento
-<img src="https://svgshare.com/i/17XN.svg" width="700"/>
+![Modelo ER](docs/modelagem/modelo-er.png)
+> *Estrutura das tabelas e seus relacionamentos.*
 
 ## Diagrama de Classes
-<img src="https://svgshare.com/i/17XP.svg" width="700"/>
+![Diagrama de Classes](docs/modelagem/diagrama-classes.png)
+> *Estrutura das classes utilizadas na programação.*
 
 ---
 
@@ -157,7 +155,8 @@ Ely da Silva Miranda
 | Sprint 4 | Finalização das funcionalidades, ajustes visuais, testes e documentação final. |
 
 ## Gestão das Tarefas
-<img src="https://svgshare.com/i/17XR.svg" width="700"/>
+![Gestão de Tarefas](docs/planejamento/trello.png)
+> *Acompanhamento das atividades divididas em: A Fazer, Fazendo e Concluído.*
 
 ## Histórico de Entregas
 - Entrega 1: Documento com definição do objetivo, requisitos e fluxos do sistema.
@@ -204,9 +203,7 @@ CREATE TABLE tarefas (
     CONSTRAINT fk_usuario FOREIGN KEY (id_usuario) REFERENCES usuarios(id_usuario) ON DELETE CASCADE
 );
 Modelo Visual
-
-<img src="https://svgshare.com/i/17XN.svg" width="700"/>
-
+Diagrama baseado nas tabelas criadas, demonstrando a relação entre usuários e suas respectivas tarefas.
 Observações
 
 • A estrutura foi desenvolvida para garantir a integridade dos dados, com chave estrangeira que vincula cada tarefa ao seu respectivo usuário.
