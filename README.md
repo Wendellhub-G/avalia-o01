@@ -96,23 +96,27 @@ Ely da Silva Miranda
 # 7. Modelagem do Sistema
 
 ## Diagrama de Casos de Uso
-![Casos de Uso](docs/modelagem/casos-de-uso.png)
+![Casos de Uso](<img width="2730" height="1535" alt="image" src="https://github.com/user-attachments/assets/ee5616dd-52bf-4375-8027-12c98c98deb3" />
+)
 > *Em elaboração. O mapeamento das interações entre usuário e sistema já foi definido conceitualmente, e o diagrama visual será finalizado na próxima etapa de desenvolvimento.*
 
 ## Fluxo de Telas
-![Fluxo de Telas](docs/modelagem/fluxo-de-telas.png)
+![Fluxo de Telas](<img width="2730" height="1535" alt="image" src="https://github.com/user-attachments/assets/5eeeb419-7f19-4760-9085-6e1698391018" />
+)
 > *Definido através do protótipo desenvolvido no Figma. A sequência de navegação entre as telas já foi estabelecida, e o diagrama de fluxo será gerado posteriormente.*
 
 ## Arquitetura
-![Arquitetura](docs/modelagem/arquitetura.png)
+![Arquitetura](<img width="2730" height="1535" alt="image" src="https://github.com/user-attachments/assets/caae43e9-88cf-424e-8a64-529a87fc5b6f" />
+)
 > *Conceito definido com estrutura dividida em interface com o usuário, regras de negócio e armazenamento de dados. O diagrama detalhado será produzido na fase de implementação.*
 
-## Modelo Entidade-Relacionamento
-![Modelo ER](docs/modelagem/modelo-er.png)
+## Modelo Entidade-Relacionamento 
+![Modelo ER](<img width="2730" height="1535" alt="image" src="https://github.com/user-attachments/assets/09470739-0706-4207-8002-8c7b83517a85" />
+)
 > *Entidades e seus relacionamentos definidos: Usuários e Tarefas, com vínculo de um para muitos. O diagrama visual será gerado com base na estrutura do banco de dados apresentada.*
 
 ## Diagrama de Classes
-![Diagrama de Classes](docs/modelagem/diagrama-classes.png)
+
 > *Ainda não elaborado. Será desenvolvido durante a fase de codificação, após a definição completa das classes e estruturas de dados do sistema.*
 
 ---
@@ -120,19 +124,23 @@ Ely da Silva Miranda
 # 8. Protótipos
 
 ## Tela de Login
-![Tela de Login](docs/prototipos/login.png)
+![Tela de Login](<img width="1411" height="797" alt="image" src="https://github.com/user-attachments/assets/95417bb7-fabe-4149-bb58-4a9384d4852d" />
+)
 > *Tela de acesso ao sistema, com campos para e-mail ou telefone e senha, além de link para cadastro de novos usuários.*
 
 ## Tela de Cadastro
-![Tela de Cadastro](docs/prototipos/cadastro.png)
+![Tela de Cadastro](<img width="1377" height="800" alt="image" src="https://github.com/user-attachments/assets/48d3c13b-706e-47d8-8090-1fd042a43d51" />
+)
 > *Primeira etapa do cadastro, com campos para dados básicos do usuário, data de nascimento, gênero e endereço (opcional), com navegação para as próximas etapas.*
 
 ## Tela Principal - Dashboard
-![Tela Principal](docs/prototipos/dashboard.png)
+![Tela Principal](<img width="1546" height="849" alt="image" src="https://github.com/user-attachments/assets/71e7515a-9164-49e2-ac73-b65e752567b1" />
+)
 > *Área principal do sistema, com saudação personalizada, exibição de tarefas prioritárias, opção para visualizar tarefas secundárias e botão para adicionar novas atividades.*
 
 ## Tela de Perfil
-![Tela de Perfil](docs/prototipos/perfil.png)
+![Tela de Perfil](<img width="1673" height="805" alt="image" src="https://github.com/user-attachments/assets/64eb9a7f-ec09-43a9-b1ae-85f9858abb5e" />
+)
 > *Exibição dos dados cadastrados do usuário, objetivo principal definido e métricas de produtividade e desempenho semanal.*
 
 ---
@@ -157,7 +165,7 @@ Ely da Silva Miranda
 | Sprint 4 | Finalização das funcionalidades, ajustes visuais, testes e documentação final. |
 
 ## Gestão das Tarefas
-![Gestão de Tarefas](docs/planejamento/trello.png)
+Ainda não feito, estara em produção
 > *Acompanhamento e divisão das atividades são realizados de forma organizada entre os membros da equipe, sem uso de ferramenta específica de gestão no momento.*
 
 ## Histórico de Entregas
