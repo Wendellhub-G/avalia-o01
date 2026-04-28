@@ -13,7 +13,7 @@
 - Karla Cristine
 - Matheus Leal
 - Luiz Felipe
-- Ana Clara (temporario(
+- Ana Clara (temporario)
 
 ## Disciplina
 Projeto Integrador
