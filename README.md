@@ -110,7 +110,7 @@ Ely da Silva Miranda
 > *Estrutura das tabelas e seus relacionamentos.*
 
 ## Diagrama de Classes
-![Diagrama de Classes](docs/modelagem/diagrama-classes.PNG)
+![Diagrama de Classes](docs/modelagem/Diagrama-classes.PNG)
 > *Estrutura das classes utilizadas na programação.*
 
 ---
