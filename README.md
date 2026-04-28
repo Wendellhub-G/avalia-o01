@@ -96,23 +96,19 @@ Ely da Silva Miranda
 # 7. Modelagem do Sistema
 
 ## Diagrama de Casos de Uso
-![Casos de Uso](<img width="2730" height="1535" alt="image" src="https://github.com/user-attachments/assets/ee5616dd-52bf-4375-8027-12c98c98deb3" />
-)
+![Casos de Uso](casos-de-uso.png)
 > *Em elaboração. O mapeamento das interações entre usuário e sistema já foi definido conceitualmente, e o diagrama visual será finalizado na próxima etapa de desenvolvimento.*
 
 ## Fluxo de Telas
-![Fluxo de Telas](<img width="2730" height="1535" alt="image" src="https://github.com/user-attachments/assets/5eeeb419-7f19-4760-9085-6e1698391018" />
-)
+![Fluxo de Telas](fluxo-de-telas.png)
 > *Definido através do protótipo desenvolvido no Figma. A sequência de navegação entre as telas já foi estabelecida, e o diagrama de fluxo será gerado posteriormente.*
 
 ## Arquitetura
-![Arquitetura](<img width="2730" height="1535" alt="image" src="https://github.com/user-attachments/assets/caae43e9-88cf-424e-8a64-529a87fc5b6f" />
-)
+![Arquitetura](arquitetura.png)
 > *Conceito definido com estrutura dividida em interface com o usuário, regras de negócio e armazenamento de dados. O diagrama detalhado será produzido na fase de implementação.*
 
 ## Modelo Entidade-Relacionamento 
-![Modelo ER](<img width="2730" height="1535" alt="image" src="https://github.com/user-attachments/assets/09470739-0706-4207-8002-8c7b83517a85" />
-)
+![Modelo ER](modelo-er.png)
 > *Entidades e seus relacionamentos definidos: Usuários e Tarefas, com vínculo de um para muitos. O diagrama visual será gerado com base na estrutura do banco de dados apresentada.*
 
 ## Diagrama de Classes
