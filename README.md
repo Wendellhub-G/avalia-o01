@@ -118,7 +118,7 @@ Ely da Silva Miranda
 # 8. Protótipos
 
 ## Tela de Login
-![Tela de Login](docs/prototipos/login.JPG)
+![Tela de Login](https://github.com/Wendellhub-G/avalia-o01/blob/909731f275250da130170872005dff5ad6066f27/docs/prototipos%20/login.JPG)
 > *Tela de acesso ao sistema, com campos para e-mail ou telefone e senha, além de link para cadastro de novos usuários.*
 
 ## Tela de Cadastro
