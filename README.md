@@ -98,19 +98,19 @@ Ely da Silva Miranda
 > *Mostra as interações do usuário com o sistema.*
 
 ## Fluxo de Telas
-![Fluxo de Telas](docs/modelagem/fluxo-de-telas.png)
+![Fluxo de Telas](docs/modelagem/fluxo-de-telas.PNG)
 > *Representa a navegação entre as telas do sistema.*
 
 ## Arquitetura
-![Arquitetura](docs/modelagem/arquitetura.png)
+![Arquitetura](docs/modelagem/arquitetura.PNG)
 > *Divisão em camadas: Interface, Regras e Banco de Dados.*
 
 ## Modelo Entidade-Relacionamento
-![Modelo ER](docs/modelagem/modelo-er.png)
+![Modelo ER](docs/modelagem/modelo-er.PNG)
 > *Estrutura das tabelas e seus relacionamentos.*
 
 ## Diagrama de Classes
-![Diagrama de Classes](docs/modelagem/diagrama-classes.png)
+![Diagrama de Classes](docs/modelagem/diagrama-classes.PNG)
 > *Estrutura das classes utilizadas na programação.*
 
 ---
@@ -118,19 +118,19 @@ Ely da Silva Miranda
 # 8. Protótipos
 
 ## Tela de Login
-![Tela de Login](docs/prototipos/login.png)
+![Tela de Login](docs/prototipos/login.JPG)
 > *Tela de acesso ao sistema, com campos para e-mail ou telefone e senha, além de link para cadastro de novos usuários.*
 
 ## Tela de Cadastro
-![Tela de Cadastro](docs/prototipos/cadastro.png)
+![Tela de Cadastro](docs/prototipos/cadastro.JPG)
 > *Primeira etapa do cadastro, com campos para dados básicos do usuário, data de nascimento, gênero e endereço (opcional), com navegação para as próximas etapas.*
 
 ## Tela Principal - Dashboard
-![Tela Principal](docs/prototipos/dashboard.png)
+![Tela Principal](docs/prototipos/dashboard.JPG)
 > *Área principal do sistema, com saudação personalizada, exibição de tarefas prioritárias, opção para visualizar tarefas secundárias e botão para adicionar novas atividades.*
 
 ## Tela de Perfil
-![Tela de Perfil](docs/prototipos/perfil.png)
+![Tela de Perfil](docs/prototipos/perfil.JPG)
 > *Exibição dos dados cadastrados do usuário, objetivo principal definido e métricas de produtividade e desempenho semanal.*
 
 ---
