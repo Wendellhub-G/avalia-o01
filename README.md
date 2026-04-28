@@ -130,7 +130,7 @@ Ely da Silva Miranda
 > *Área principal do sistema, com saudação personalizada, exibição de tarefas prioritárias, opção para visualizar tarefas secundárias e botão para adicionar novas atividades.*
 
 ## Tela de Perfil
-![Tela de Perfil](docs/prototipos/perfil.JPG)
+![Tela de Perfil](https://github.com/Wendellhub-G/avalia-o01/blob/125834346ee93a2877832b7bfa9ca4e1bff4ea16/docs/prototipos%20/perfil.JPG)
 > *Exibição dos dados cadastrados do usuário, objetivo principal definido e métricas de produtividade e desempenho semanal.*
 
 ---
