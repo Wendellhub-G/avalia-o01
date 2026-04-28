@@ -155,7 +155,7 @@ Ely da Silva Miranda
 | Sprint 4 | Finalização das funcionalidades, ajustes visuais, testes e documentação final. |
 
 ## Gestão das Tarefas
-![Gestão de Tarefas]
+
 ## Sem imagem atualmente !
 > *Acompanhamento das atividades divididas em: A Fazer, Fazendo e Concluído.*
 
